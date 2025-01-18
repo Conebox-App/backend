@@ -1,0 +1,4 @@
+## Corporate Financial Reporting Application
+
+### Overview
+The app is a SaaS financial reporting platform designed to streamline financial management for corporate clients. It provides a seamless journey for different user roles, including SaaS Admins, Tenants, and App-Users, each with unique permissions and workflows. Key features include tenant registration and management, profile setup, and a guided onboarding experience. The platform allows tenants to manage their own financial data, including trial balance uploads with real-time zero-sum validation, editing capabilities, and account mapping for financial statement preparation. Advanced functionalities also support group structure setup, consolidation, and elimination entries for compliance with IFRS standards, along with reporting and analytics for business insights.
